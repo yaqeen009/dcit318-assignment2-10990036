@@ -1,0 +1,15 @@
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 2/dcit318-assignment2-10990036/AbstractClasses/obj/Debug/net8.0/AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 2/dcit318-assignment2-10990036/AbstractClasses/obj/Debug/net8.0/AbstractClasses.AssemblyInfoInputs.cache
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 2/dcit318-assignment2-10990036/AbstractClasses/obj/Debug/net8.0/AbstractClasses.AssemblyInfo.cs
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 2/dcit318-assignment2-10990036/AbstractClasses/obj/Debug/net8.0/AbstractClasses.csproj.CoreCompileInputs.cache
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 2/dcit318-assignment2-10990036/AbstractClasses/obj/Debug/net8.0/AbstractClasses.sourcelink.json
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 2/dcit318-assignment2-10990036/AbstractClasses/bin/Debug/net8.0/AbstractClasses
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 2/dcit318-assignment2-10990036/AbstractClasses/bin/Debug/net8.0/AbstractClasses.deps.json
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 2/dcit318-assignment2-10990036/AbstractClasses/bin/Debug/net8.0/AbstractClasses.runtimeconfig.json
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 2/dcit318-assignment2-10990036/AbstractClasses/bin/Debug/net8.0/AbstractClasses.dll
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 2/dcit318-assignment2-10990036/AbstractClasses/bin/Debug/net8.0/AbstractClasses.pdb
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 2/dcit318-assignment2-10990036/AbstractClasses/obj/Debug/net8.0/AbstractClasses.dll
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 2/dcit318-assignment2-10990036/AbstractClasses/obj/Debug/net8.0/refint/AbstractClasses.dll
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 2/dcit318-assignment2-10990036/AbstractClasses/obj/Debug/net8.0/AbstractClasses.pdb
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 2/dcit318-assignment2-10990036/AbstractClasses/obj/Debug/net8.0/AbstractClasses.genruntimeconfig.cache
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 2/dcit318-assignment2-10990036/AbstractClasses/obj/Debug/net8.0/ref/AbstractClasses.dll
